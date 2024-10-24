@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://qapodaqa.github.io/sitemap/sitemap_index.qapodaqa
+Sitemap: https://qapodaqa.github.io/sRf/sitemap_index.qapodaqa
+Sitemap: https://qapodaqa.github.io/eQH/sitemap_index.qapodaqa
+Sitemap: https://qapodaqa.github.io/IYH/sitemap_index.qapodaqa
+Sitemap: https://qapodaqa.github.io/QOj/sitemap_index.qapodaqa
+Sitemap: https://qapodaqa.github.io/AJV/sitemap_index.qapodaqa
+Sitemap: https://qapodaqa.github.io/UPF/sitemap_index.qapodaqa
+Sitemap: https://qapodaqa.github.io/pcF/sitemap_index.qapodaqa
+Sitemap: https://qapodaqa.github.io/txH/sitemap_index.qapodaqa
+Sitemap: https://qapodaqa.github.io/YqA/sitemap_index.qapodaqa
+Sitemap: https://qapodaqa.github.io/TtL/sitemap_index.qapodaqa
+Sitemap: https://qapodaqa.github.io/xhZ/sitemap_index.qapodaqa
+Sitemap: https://qapodaqa.github.io/PLQ/sitemap_index.qapodaqa
+Sitemap: https://qapodaqa.github.io/iTS/sitemap_index.qapodaqa
+Sitemap: https://qapodaqa.github.io/Hru/sitemap_index.qapodaqa
+Sitemap: https://qapodaqa.github.io/DhC/sitemap_index.qapodaqa
+Sitemap: https://qapodaqa.github.io/MKN/sitemap_index.qapodaqa
+Sitemap: https://qapodaqa.github.io/afJ/sitemap_index.qapodaqa
+Sitemap: https://qapodaqa.github.io/iYb/sitemap_index.qapodaqa
+Sitemap: https://qapodaqa.github.io/yuU/sitemap_index.qapodaqa
+Sitemap: https://qapodaqa.github.io/nFM/sitemap_index.qapodaqa
